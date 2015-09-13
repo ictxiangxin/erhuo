@@ -1,11 +1,20 @@
 #Erhuo前端设计语言
 
+[English edition](/README-en.md)
+
 Erhuo可以是一个可生成html格式的设计语言，它使用[boson](https://github.com/ictxiangxin/boson)开发.
 
 * Erhuo的源码十分简单
 * Erhuo的使用也非常简单
 
 `example`文件夹中是一个源码例子。
+
+##内容提要：
+
+* [编译Erhuo](#编译Erhuo)
+* [语法介绍](#语法介绍)
+* [计划开发](#计划开发)
+* [例子展示](#例子展示)
 
 ##编译Erhuo
 使用`boson`编译`erhuo.g`和`erhuo.l`这两个文件就可以生成Erhuo的编译器。
